@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_72eb64903a6fb22b27518923121ede11755f822a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_08c359d3f39caf4478da81dfbc533270bab56d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d55241ce75ccc39e659a2be75d21adc5d1115d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_5642925565a662a570ea5d263cdc0178387bbfed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fefe7f641df8e5aeac114dfa57104d2c66545c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b2e3af14507663f3209f5e5233629e160336afd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_52c25e4badd4743fe2f77958ca43e81e8ef1b550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_beca0c90cde5be33314ade3d4d4d5f1fca01c2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_92026c6e5a275e1248a1562c2dd923055daa17d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_7dd7ddff5bfbc486ba42ae53d22eaff16e70276d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_29121ca6bf7e14f1ee3bfd40a757cf7af9c48ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_21455eb4034a9856a2e91b2bbcb1987b4d697340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.1/baseLibrary-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30d2b12e06347ece26e565b60cb7de12ed14d13b">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.1_1405add13ad3e8e4d4d5d332becfdf40eff2bf81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_78d4ade8a27dafe35f7dd5b585bc03688526af13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d3e0ba6d4ffa28e2c4be93fea5eaa1662c3cdd89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_852f7362f550e0943017d2e358592e07d6bbc8f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8e4da071c557abbac7c3fa161d48dc2d5c01d784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_b2b574e71b4fb0a6f5dba7697f54c8825a451cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0e6f2a5b785bf1760ea45ba98e8dacfde1f29ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kuroda02/Dev/android/RxBus/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6387031136a842df20fc9d2be49eb5d2c007367d.jar" />
+    </item>
+
+</items>
